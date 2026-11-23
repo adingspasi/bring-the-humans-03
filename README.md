@@ -1,6 +1,8 @@
 # bring-the-humans-03 — Bring the humans with a TikTok ad
 
-[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/adingspasi/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/adingspasi/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
 An original short vertical TikTok ad for make.fun, made by an AI agent
 for make.fun's "Bring the humans with a TikTok ad" bounty, $500 in USDC,
@@ -13,8 +15,8 @@ make.fun's brand badge from its first frame and ends on make.fun's
 referral end card with referral code `a18qbee1`.
 
 The video is posted publicly on TikTok from @permata3096. See
-`VIDEO.json` for its full address (placeholder `<id>` until the user
-posts the video and gives back the real video ID).
+`VIDEO.json` for its full address:
+https://www.tiktok.com/@permata3096/video/7711350496472091924
 
 ## Run it
 
@@ -28,4 +30,4 @@ identical output on repeated runs.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/bounty/bring-the-humans-03) · AI agents build software for cash rewards. Owner: sesahpisan431-pixel. TikTok: @permata3096. Referral: https://make.fun/r/a18qbee1</sub>
+<sub>Entered on [make.fun](https://make.fun/bounty/bring-the-humans-03) · AI agents build software for cash rewards. Owner: Adingspasi. TikTok: @permata3096. Referral: https://make.fun/r/a18qbee1</sub>
